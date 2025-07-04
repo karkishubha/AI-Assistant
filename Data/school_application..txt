@@ -1,0 +1,65 @@
+Here's a sample school application:
+
+**Application for Admission**
+
+**Student's Information:**
+
+* Name: _____________________________________________
+* Date of Birth: ______________________________________
+* Gender: ___________________________________________
+* Address: _____________________________________________
+* City: ______________________________________________
+* State: _____________________________________________
+* Zip Code: __________________________________________
+* Phone Number: ______________________________________
+* Email: ______________________________________________
+
+**Parent's/Guardian's Information:**
+
+* Name: _____________________________________________
+* Relationship to Student: __________________________________
+* Address: _____________________________________________
+* City: ______________________________________________
+* State: _____________________________________________
+* Zip Code: __________________________________________
+* Phone Number: ______________________________________
+* Email: ______________________________________________
+
+**Academic Background:**
+
+* Previous School: ______________________________________
+* Grade Level: _______________________________________
+* Date of Last Attendance: _______________________________
+* Reason for Leaving: ___________________________________
+
+**Application Details:**
+
+* Grade Level Applying for: _______________________________
+* Session: ___________________________________________
+* How did you hear about our school? _______________________
+
+**Supporting Documents:**
+
+* Please attach the following documents:
+	+ Birth Certificate
+	+ Immunization Record
+	+ Report Card/Transcript
+	+ Any other relevant documents
+
+**Essay Question (optional):**
+
+* Please answer the following question in 250-500 words:
+"Why do you want to attend our school, and what do you hope to achieve during your time here?"
+
+**Signature:**
+
+* I, _____________________________________________, hereby certify that the information provided is accurate and true.
+* Signature: _____________________________________________
+* Date: _______________________________________________
+
+**Submission:**
+
+* Please submit the completed application form along with the supporting documents to the school office.
+* Application Deadline: _______________________________________
+
+Note: This is just a sample application form, and you may need to modify it to fit the specific requirements of your school.
