@@ -286,5 +286,21 @@
     {
         "role": "assistant",
         "content": "You're welcome!"
+    },
+    {
+        "role": "user",
+        "content": "hey"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "whos the prime minister of nepal"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the real-time information I found, the current Prime Minister of Nepal is Pushpa Kamal Dahal \"Prachanda\"."
     }
 ]

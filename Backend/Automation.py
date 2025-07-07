@@ -124,6 +124,7 @@ def OpenApp(app, sess=requests.session()):
             print("Failed to get search results")
 
         return True
+
         
 
 def CloseApp(app):

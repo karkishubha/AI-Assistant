@@ -220,6 +220,7 @@ def OpenApp(app, sess=requests.session()):
                 open_in_brave(link)
         return True
 
+
 def CloseApp(app):
     if "chrome" in app.lower():
         try:
@@ -330,4 +331,4 @@ async def Automation(commands: list[str]):
 
 
 if __name__ == "__main__":
-     asyncio.run(Automation(["open facebook","open instagram","play afsanay","content song for me"]))
+     asyncio.run(Automation(["content school application"]))

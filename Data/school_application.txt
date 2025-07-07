@@ -1,0 +1,65 @@
+Here's a sample school application:
+
+**Application for Admission**
+
+**Student's Information:**
+
+* Name: _____________________________________________
+* Date of Birth: _____________________________________
+* Age: _____________________________________________
+* Gender: ___________________________________________
+* Address: __________________________________________
+* City: _____________________________________________
+* State: ____________________________________________
+* Zip Code: __________________________________________
+* Phone Number: ______________________________________
+* Email: ______________________________________________
+
+**Parent/Guardian Information:**
+
+* Name: _____________________________________________
+* Occupation: _______________________________________
+* Address: __________________________________________
+* City: _____________________________________________
+* State: ____________________________________________
+* Zip Code: __________________________________________
+* Phone Number: ______________________________________
+* Email: ______________________________________________
+
+**Academic Background:**
+
+* Previous School: ______________________________________
+* Grade Level: _______________________________________
+* GPA: _____________________________________________
+* Special Interests or Talents: _____________________________
+
+**Application Details:**
+
+* Grade Level Applying for: ______________________________
+* Program of Interest: _______________________________
+* How did you hear about our school? _______________________
+
+**Supporting Documents:**
+
+* Please attach the following documents to this application:
+	+ Copy of birth certificate
+	+ Copy of immunization record
+	+ Copy of previous school transcript (if applicable)
+	+ Letter of recommendation from previous teacher (if applicable)
+
+**Essay Question:**
+
+* Please answer the following question in 250-500 words:
+What are your goals and aspirations, and how do you think our school can help you achieve them?
+
+**Signature:**
+
+* I, _____________________________________________, hereby apply for admission to [School Name]. I understand that the information provided is accurate and complete to the best of my knowledge.
+* Signature: _______________________________________
+* Date: _____________________________________________
+
+**Submission:**
+
+* Please submit this application to [School Address] by [Deadline]. You can also email the application to [School Email] or fax it to [School Fax].
+
+Note: This is just a sample application, and you should adjust it according to your specific needs and requirements.
